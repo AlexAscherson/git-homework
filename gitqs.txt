@@ -7,6 +7,9 @@ How would you find out what files are currently staged?
 use git status
 
 How would you add a file to the staging area?
+
+git add filename.ext
+
 How would you commit your changes with the message
 Adding git-test questions ?
 
