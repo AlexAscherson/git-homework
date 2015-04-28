@@ -13,4 +13,4 @@ git add filename.ext
 How would you commit your changes with the message
 Adding git-test questions ?
 
-
+git commit filename.txt -m "Adding git-test Questions"
